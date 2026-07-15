@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
