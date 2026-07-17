@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0686-repeated-string-match) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
