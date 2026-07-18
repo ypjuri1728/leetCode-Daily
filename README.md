@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
