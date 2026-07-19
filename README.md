@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0686-repeated-string-match) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
