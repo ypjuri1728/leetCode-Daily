@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
