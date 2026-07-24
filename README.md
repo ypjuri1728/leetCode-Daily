@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
