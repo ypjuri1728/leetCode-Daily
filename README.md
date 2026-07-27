@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0610-triangle-judgement) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
