@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1075-project-employees-i) |
 | [1527-patients-with-a-condition](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1667-fix-names-in-a-table) |
 ## Binary Search
