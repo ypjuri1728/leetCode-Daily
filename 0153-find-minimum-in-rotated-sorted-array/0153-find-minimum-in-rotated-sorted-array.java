@@ -16,3 +16,12 @@ class Solution {
 }
 // nums[mid] > nums[right] --> Minimum is RIGHT of mid --> left = mid + 1
 //nums[mid] <= nums[right] --> Minimum is LEFT of mid OR at mid --> right = mid
+//2nd 
+// if(arr[left] <= arr[mid]){
+//     mini = Math.min(mini,arr[left]);
+//     left = mid +1;
+// }
+// else{
+//     mini = Math.min(mini.arr[right]);
+// }
+// return mini;
