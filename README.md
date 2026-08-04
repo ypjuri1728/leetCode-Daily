@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
 ## String
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0074-search-a-2d-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
