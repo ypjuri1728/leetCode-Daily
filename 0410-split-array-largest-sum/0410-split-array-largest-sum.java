@@ -6,9 +6,11 @@ class Solution {
         if(k>n){
             return -1;
         }
+        //left ->max value
        for(int i=0; i<n; i++){
            l = Math.max(l,arr[i]);
        }
+       //right = sum(arr)
        for(int i=0; i<n; i++){
             r += arr[i];
        }
@@ -30,10 +32,13 @@ class Solution {
         int count =1, sum=0;
         int n = arr.length;
         for(int i=0; i<n; i++){
+            //max page find
             if(sum+arr[i] > mid){
                 sum=arr[i];
                 count++;
-            }else{
+            }
+            //change value of l and r then 
+            else{
                 sum+=arr[i];
             }
         }
