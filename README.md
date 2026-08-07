@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1075-project-employees-i) |
 | [1527-patients-with-a-condition](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1693-daily-leads-and-partners) |
 ## Binary Search
 |  |
 | ------- |
