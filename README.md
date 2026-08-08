@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1075-project-employees-i) |
+| [1393-capital-gainloss](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1693-daily-leads-and-partners) |
