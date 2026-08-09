@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
