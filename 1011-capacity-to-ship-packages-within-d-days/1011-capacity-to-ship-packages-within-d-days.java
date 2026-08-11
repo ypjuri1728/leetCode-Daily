@@ -1,6 +1,6 @@
 class Solution {
     boolean ispossible(int[] weights, int mid, int days){
-        int totalDays=1;
+        int totalDays=1; //last days may be not add in totaldays like not add that so we need to add that bcz capacity > days value so that's why we do 
         int sum= weights[0];
         for(int i =1;i<weights.length;i++){
             if(sum + weights[i] > mid){
