@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
