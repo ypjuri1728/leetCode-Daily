@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
 ## Hash Table
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
 ## Queue
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 ## Simulation
 |  |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
