@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0414-third-maximum-number) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
