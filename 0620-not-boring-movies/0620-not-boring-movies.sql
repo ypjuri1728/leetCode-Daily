@@ -1,0 +1,1 @@
+SELECT *FROM Cinema WHERE id%2 =1 AND rating > 8.6 ORDER BY rating DESC;
