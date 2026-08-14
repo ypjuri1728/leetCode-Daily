@@ -1,4 +1,20 @@
 class Solution {
+     boolean ispossible(int arr[], int mid, int k){
+        int count =1, sum=0;
+        int n = arr.length;
+        for(int i=0; i<n; i++){
+            //max page find
+            if(sum+arr[i] > mid){
+                sum=arr[i];
+                count++;
+            }
+            //change value of l and r then 
+            else{
+                sum+=arr[i];
+            }
+        }
+        return count<=k;
+    }  
     public int splitArray(int[] arr, int k) {
         int l=0;
         int r=0;
@@ -26,24 +42,5 @@ class Solution {
         }
         return l;
     }
-
-    
-    boolean ispossible(int arr[], int mid, int k){
-        int count =1, sum=0;
-        int n = arr.length;
-        for(int i=0; i<n; i++){
-            //max page find
-            if(sum+arr[i] > mid){
-                sum=arr[i];
-                count++;
-            }
-            //change value of l and r then 
-            else{
-                sum+=arr[i];
-            }
-        }
-        return count<=k;
-    }
-    }
-    
-       
+}
+   
