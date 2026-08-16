@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         int n = nums.length;
-        List<Integer> ans = new ArrayList<>();
-        HashSet<Integer> set = new HashSet<>();
+        List<Integer> ans = new ArrayList<>(); // for output 
+        HashSet<Integer> set = new HashSet<>();// check existing number in range 
         for(int i =0;i<n;i++){
             set.add(nums[i]);
         }
