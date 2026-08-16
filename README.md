@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
 ## Queue
 |  |
