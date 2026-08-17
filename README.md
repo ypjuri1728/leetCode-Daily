@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String Matching
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Interactive
 |  |
 | ------- |
