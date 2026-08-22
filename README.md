@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0217-contains-duplicate) |
