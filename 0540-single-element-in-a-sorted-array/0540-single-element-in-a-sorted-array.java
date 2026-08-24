@@ -18,7 +18,17 @@ class Solution {
     }
 }
 // [1,1,2,3,3,4,4,8,8] -->check middle
-
 // [1,1,2,3,3] | [4,4,8,8] -->check middle again
-
 // [1,1] | [2,3,3] --> [1,1] | [2] --> 2
+// nums[mid] == nums[mid+1]
+//         ↓
+//    pair is correct
+//         ↓
+//    single is RIGHT
+
+
+// nums[mid] != nums[mid+1]
+//         ↓
+//    pair is broken
+//         ↓
+//    single is LEFT
