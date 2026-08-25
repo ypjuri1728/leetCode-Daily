@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
 | ------- |
