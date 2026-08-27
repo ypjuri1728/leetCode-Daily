@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0607-sales-person) |
