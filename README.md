@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 ## Ternary Search
 |  |
 | ------- |
