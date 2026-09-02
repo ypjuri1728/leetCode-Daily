@@ -1,45 +1,29 @@
 class Solution {
+    boolean binarySearch(int[] nums, int left, int right, int target) {
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] == target) return true;
+            else if (nums[mid] < target){
+                left = mid + 1;
+            }
+            else{
+                right = mid - 1;
+            }
+        }
+        return false;
+    }
     public int findPairs(int[] nums, int k) {
-        int n = nums.length;
-        Arrays.sort(nums);
-        int i =0;
-        int j =1;
         int count =0;
-      
-
-        // for (int i = 1; i < nums.length; i++) {
-        //     if (nums[i] == nums[i - 1]) {
-        //         count++;
-        //         break;   // only one unique pair needed here
-        //      }
-        // }
-        while(j <nums.length){
-        if(i ==j){
-            j++;
-            continue;
-            
-        }
-        int diff = nums[j]-nums[i];
-
-        if(diff== k){
-            count++;
-        
-        int left = nums[i];
-        int right = nums[j];
-        while (i<nums.length&& nums[i] == left){
-            i++;
-        }
-        while(j<nums.length && nums[j] == right){
-            j++;
-        }
-        }
-        else if(diff<k){
-            j++;
-        }
-        else{
-            i++;
-        }
-        }
-            return count;
+        Arrays.sort(nums);
+        for(int i =0;i<nums.length;i++){
+            if(i>0 && nums[i]== nums[i-1]){
+                continue;
+            }
+            int target = nums[i]+k;
+            if(binarySearch(nums,i+1,nums.length-1,target)){
+                count++;
+            }
+        } 
+        return count;
     }
 }
