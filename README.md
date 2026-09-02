@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0680-valid-palindrome-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
