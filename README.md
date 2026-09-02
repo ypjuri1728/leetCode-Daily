@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
@@ -257,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
