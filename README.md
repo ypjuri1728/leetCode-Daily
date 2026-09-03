@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
