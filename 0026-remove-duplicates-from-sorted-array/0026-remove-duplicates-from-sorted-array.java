@@ -11,3 +11,8 @@ class Solution {
         return i+1;
     }
 }
+// j -> searches
+// i -> stores unique values
+// i++ -> next empty unique position
+// nums[i] = nums[j] -> copy unique value
+// i+1 -> total unique count
