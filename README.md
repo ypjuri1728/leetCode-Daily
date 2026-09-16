@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0584-find-customer-referee) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0610-triangle-judgement) |
