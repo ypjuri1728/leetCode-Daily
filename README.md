@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0611-valid-triangle-number) |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
 ## Simulation
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -280,4 +283,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
