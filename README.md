@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ypjuri1728/leetCode-Daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Interactive
 |  |
