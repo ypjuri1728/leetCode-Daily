@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ypjuri1728/leetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ypjuri1728/leetCode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
